@@ -8,9 +8,9 @@ I’m studying to become a mathematics teacher, because I believe numbers make m
 
 ## Quick facts
 
-- **Based in**Your city, Country
-- **Studying**Bulacan State University
-- **Currently learning**Coding
+- **Based in** Your city, Country
+- **Studying** Bulacan State University
+- **Currently learning** Coding
 
 ## Things I enjoy
 
